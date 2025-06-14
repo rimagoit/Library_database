@@ -29,19 +29,19 @@ An interactive and user-friendly Library Management System built using **Streaml
 
 ## 🚀 Setup Instructions
  1. Clone the Repository
-
+```bash
 git clone [https://github.com/rimagoit/Library_database]
 
 2. Install Required Packages
-  pip install streamlit pandas mysql-connector-python plotly
+ pip install streamlit pandas mysql-connector-python plotly
 
 3. Start MySQL Server and Create Database
 CREATE DATABASE library;
---Create necessary tables like `students`, `books`, `borrow_records`, and `admins`
+ Create necessary tables like `students`, `books`, `borrow_records`, and `admins`
 You can use the provided schema.sql (if available) to create tables automatically.
 
 4. Run the Application
---streamlit run app.py
+ streamlit run app.py
 
 ## 🚀 Live Demo
 
