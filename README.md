@@ -37,11 +37,11 @@ git clone [https://github.com/rimagoit/Library_database]
 
 3. Start MySQL Server and Create Database
 CREATE DATABASE library;
- Create necessary tables like `students`, `books`, `borrow_records`, and `admins`
+--Create necessary tables like `students`, `books`, `borrow_records`, and `admins`
 You can use the provided schema.sql (if available) to create tables automatically.
 
 4. Run the Application
- streamlit run app.py
+--streamlit run app.py
 
 ## 🚀 Live Demo
 
