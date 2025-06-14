@@ -42,3 +42,8 @@ You can use the provided schema.sql (if available) to create tables automaticall
 
 4. Run the Application
  streamlit run app.py
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live app on Streamlit](https://rimagoit-library-database-app-csmq8l.streamlit.app/)
+
