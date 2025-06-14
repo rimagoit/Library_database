@@ -29,7 +29,7 @@ An interactive and user-friendly Library Management System built using **Streaml
 
 ## 🚀 Setup Instructions
  1. Clone the Repository
-```bash
+
 git clone [https://github.com/rimagoit/Library_database]
 
 2. Install Required Packages
