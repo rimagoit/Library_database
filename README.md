@@ -30,8 +30,7 @@ An interactive and user-friendly Library Management System built using **Streaml
 ## 🚀 Setup Instructions
  1. Clone the Repository
 
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
+git clone [https://github.com/rimagoit/Library_database]
 
 2. Install Required Packages
   pip install streamlit pandas mysql-connector-python plotly
