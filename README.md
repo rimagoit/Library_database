@@ -9,7 +9,7 @@ An interactive and user-friendly Library Management System built using **Streaml
 - ✅ **Admin Login System**
 - 🧑‍🎓 Student Registration and Management
 - 📖 Add, View, and Search Books
-- 📕 Borrow and 💗 Return Book Functionality
+- 📕 Borrow and Return Book Functionality
 - 📈 Visualizations of Borrowing Trends
 - 📂 Export Borrow History as CSV
 - 🔐 Secure, validated form inputs
@@ -31,7 +31,7 @@ An interactive and user-friendly Library Management System built using **Streaml
  1. Clone the Repository
 
 git clone https://github.com/rimagoit/Library_database.git
-cd Library_database
+-cd Library_database
 
 2. Install Required Packages -
  pip install streamlit pandas mysql-connector-python plotly
