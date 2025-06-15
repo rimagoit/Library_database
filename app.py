@@ -106,8 +106,8 @@ def login():
                     st.session_state["logged_in"] = True
                     st.session_state["page"] = "Welcome"
                     st.rerun()
-             else:
-                st.error("Kindly Download this project locally and Connect your Database")
+        else:
+          st.error("Kindly Download this project locally and Connect your Database")
 
 # ------------------ Student Registration --------------------
 def register_student():
