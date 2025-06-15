@@ -108,6 +108,9 @@ def login():
                     st.rerun()
                 else:
                     st.error("Incorrect Username or Password ❌")
+            else:
+                st.error("Kindly Download this project in your local computer and connect" \
+                            " with your MySql Database")            
 
 # ------------------ Student Registration --------------------
 def register_student():
