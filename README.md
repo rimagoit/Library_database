@@ -50,3 +50,8 @@ You can use the provided schema.sql (if available) to create tables.
   ⚠️ Note: The Streamlit-hosted version does not support MySQL connections (e.g., localhost:3306) as it doesn't allow backend servers. As a 
   result, features like login or database access won't work online.
 
+## 🖼️ Screenshot
+
+![Library Dashboard](<img width="1310" alt="Screenshot 2025-06-17 at 9 04 13 PM" src="https://github.com/user-attachments/assets/66498709-1454-4735-b9e5-c56def13ed60" />
+)
+
